@@ -31,7 +31,7 @@ class Portfolio {
 
     init() {
         this.setupEventListeners();
-        this.startTypingAnimation();
+        // this.startTypingAnimation();
         this.setupScrollAnimations();
         this.setupNavigation();
         this.setupThemeToggle();
